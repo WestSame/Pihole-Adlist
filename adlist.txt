@@ -1,5 +1,5 @@
-^[\w\-\.]*?\.happyspins\.com$
-^[\w\-\.]*?\.buumi\.com$
-^[\w\-\.]*?\.helmicasino\.com$
-^[\w\-\.]*?\.kanuuna\.com$
-# ^[\w\-\.]*?\.payoutz\.com$
+||happyspins.com^
+||buumi.com^
+||helmicasino.com^
+||kanuuna.com^
+# ||payoutz.com^
